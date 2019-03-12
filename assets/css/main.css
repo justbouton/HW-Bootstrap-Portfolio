@@ -472,7 +472,6 @@
 	}
 
 /* Icon */
-
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
@@ -541,10 +540,9 @@
 			width: 100%;
 		}
 
-			.image.main img {
-				width: 100%;
-			}
-
+		.image.main img {
+			width: 100%;
+		}
 
 /* Columns */
 
